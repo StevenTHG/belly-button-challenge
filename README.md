@@ -1,1 +1,3 @@
-# belly-button-challenge
+# Belly Button Challenge 
+
+Included in this repo is an HTML file along with a JavaScript file, located within the "static" folder. The `app.js` file contains the code in order to produce the visualizations. In this challenge, the aim is to produce a dashboard that displys the bacterias contained in the human belly button. To do so, a dropdown menu, panel, bar chart, and bubble chart was created to visualize the chosen individual's demographic information, the top 10 species of bacteria that exists on their belly button, and the total count of bacteria that was examined form their sample. 
